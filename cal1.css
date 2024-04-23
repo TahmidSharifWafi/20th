@@ -1,0 +1,100 @@
+	/* width: 1519px; */
+
+body{
+    /* background: url(back.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;	 */
+    /* background: linear-gradient(180deg, #00005F, navy, blue); */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    margin: 0;
+}
+#divide{
+    font-size: 22px;
+    margin-top: 15px;
+}
+button{
+    font-size: 22px;
+    margin-left: 10px;
+    width: 75.25px;
+    height: 44.75px;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.btn1{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.upper{
+    margin-top: 0px;
+}
+#container{
+    width: 400px;
+    height: 850px;
+    margin-top: 20px;
+    background: linear-gradient(180deg,rgb(0, 0, 128), navy);
+    border-radius: 16px;
+    border: 5px solid azure;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+#input1{
+    text-align: right;
+    width: 310px;
+    height: 90px;
+    margin-top: 35px;
+    padding-left: 21px;
+    padding-right: 21px;
+    border-radius: 16px;
+    font-size: 36px;
+}
+#input2{
+    text-align: right;
+    width: 300px;
+    height: 90px;
+    margin-top: 15px;
+    padding-left: 31px;
+    padding-right: 21px;
+    border-radius: 16px;
+    font-size: 36px;
+}
+#result{
+    text-align: right;
+    width: 310px;
+    height: 69px;
+    margin-top: 25px;
+    padding-top: 21px;
+    padding-left: 21px;
+    padding-right: 21px;
+    border-radius: 16px;
+    margin-left: 21px;
+    font-size: 36px;
+    background-color: wheat;
+}
+#result-button{
+    background: linear-gradient(0deg, rgb(3, 97, 3), green, rgb(1, 161, 1));
+    color: white;
+}
+#result-button span{
+    font-size: 25px;
+}
+#none{
+    background: none;
+    border: none;
+}
+.sign{
+    margin-top: 0px;
+    background-color: #6b6a6a;
+    border: 1px groove #A9A9A9;
+    color: white;
+}
+.sign-1{
+    margin-left: 0px;
+}
